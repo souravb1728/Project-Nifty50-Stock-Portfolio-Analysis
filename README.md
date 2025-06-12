@@ -5,6 +5,8 @@ Here we will analyze the Nifty50 stock data for last 10 years
 - First we will perform descriptive analysis of the stocks based on various metrics and find the top stocks
 - Next we will perform predictive analysis by creating a portfolio of stocks using Modern Portfolio Theory
 
+**Source of the Data : https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data**
+
 ## Descriptive Analysis
 
 #### 1> Finding Top 5 Stocks based on Volume traded
