@@ -9,22 +9,22 @@ Here we will analyze the Nifty50 stock data for last 10 years
 
 ## Descriptive Analysis
 
-#### 1> Finding Top 5 Stocks based on Volume traded
+#### 1. Finding Top 5 Stocks based on Volume traded
 Analysis of stocks with visualization
 
-#### 2> Finding Top 5 Stocks based on VWAP
+#### 2. Finding Top 5 Stocks based on VWAP
 Analysis of stocks with visualization
 
-#### 3> Finding Top 5 Stocks based on Turnover
+#### 3. Finding Top 5 Stocks based on Turnover
 Analysis of stocks with visualization
 
-#### 4> Finding Top 5 Stocks based on Delivery
+#### 4. Finding Top 5 Stocks based on Delivery
 Analysis of stocks with visualization
 
-#### 5> Finding Top 10 Stocks based on Annual Return
+#### 5. Finding Top 10 Stocks based on Annual Return
 Conclusion from the analyis : **SHREECEM and TITAN gives the best annual return respectively at 53% and 48%**
 
-#### 6> Finding Top 10 Stocks based on least Annual Volatility
+#### 6. Finding Top 10 Stocks based on least Annual Volatility
 Conclusion from the analysis : **NTPC and DRREDDY are the stocks with lowest volatility with annual volatility of 30% and 32% respectively**
 
 ## Predictive Analysis
